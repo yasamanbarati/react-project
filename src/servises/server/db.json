@@ -1,0 +1,164 @@
+{
+    "projectCard": [
+        {
+            "id": 1,
+            "path": "/BirthReminder",
+            "title": "BirthReminder",
+            "image": "https://react-projects.netlify.app/_ipx/w_2048,q_75/https%3A%2F%2Fdl.airtable.com%2F.attachments%2F3d3d8a8203e3d4376bf34600e03fae37%2F7f004e6a%2FScreenShot2020-09-27at12.02.45PM.png%3Fts%3D1657480138%26userId%3DusrQMwWEPx18KgLcP%26cs%3Dd2042c96ab63cff9?url=https%3A%2F%2Fdl.airtable.com%2F.attachments%2F3d3d8a8203e3d4376bf34600e03fae37%2F7f004e6a%2FScreenShot2020-09-27at12.02.45PM.png%3Fts%3D1657480138%26userId%3DusrQMwWEPx18KgLcP%26cs%3Dd2042c96ab63cff9&w=2048&q=75"
+        },
+        {
+            "id": 2,
+            "path": "/Tours",
+            "title": "tours",
+            "image": "https://react-projects.netlify.app/_ipx/w_2048,q_75/https%3A%2F%2Fdl.airtable.com%2F.attachments%2F913e7a4a82432c7ac7171e6b37fbaeba%2F212d7c13%2FScreenShot2020-09-27at11.59.44AM.png%3Fts%3D1657480138%26userId%3DusrQMwWEPx18KgLcP%26cs%3D24b12b7a112c21f9?url=https%3A%2F%2Fdl.airtable.com%2F.attachments%2F913e7a4a82432c7ac7171e6b37fbaeba%2F212d7c13%2FScreenShot2020-09-27at11.59.44AM.png%3Fts%3D1657480138%26userId%3DusrQMwWEPx18KgLcP%26cs%3D24b12b7a112c21f9&w=2048&q=75"
+        },
+        {
+            "id": 3,
+            "path": "/Reviews",
+            "title": "Reviews",
+            "image": "https://react-projects.netlify.app/_ipx/w_2048,q_75/https%3A%2F%2Fdl.airtable.com%2F.attachments%2F5af77aea0de62f454b1b0cf531ce66bd%2Fcbe9f6eb%2FScreenShot2020-10-01at12.20.56PM.png%3Fts%3D1657480138%26userId%3DusrQMwWEPx18KgLcP%26cs%3D4365b5d4f78aaa72?url=https%3A%2F%2Fdl.airtable.com%2F.attachments%2F5af77aea0de62f454b1b0cf531ce66bd%2Fcbe9f6eb%2FScreenShot2020-10-01at12.20.56PM.png%3Fts%3D1657480138%26userId%3DusrQMwWEPx18KgLcP%26cs%3D4365b5d4f78aaa72&w=2048&q=75"
+        },
+        {
+            "id": 4,
+            "path": "/Menu",
+            "title": "Menu",
+            "image": "https://react-projects.netlify.app/_next/image?url=https%3A%2F%2Fdl.airtable.com%2F.attachments%2Ff6d435989e0768526f3d867ac97a824e%2F72a88b16%2FScreenShot2020-10-01at12.36.21PM.png%3Fts%3D1657480138%26userId%3DusrQMwWEPx18KgLcP%26cs%3D490f7061e1afc5bf&w=1920&q=75"
+        }
+    ],
+    "personList": [
+        {
+            "id": 1,
+            "name": "Bertie Yates",
+            "age": 29,
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Hester Hogan",
+            "age": 32,
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Larry Little",
+            "age": 36,
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sean Walsh",
+            "age": 34,
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Lola Gardner",
+            "age": 29,
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "name": "susan smith",
+            "job": "web developer",
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+            "text": "Im baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry"
+        },
+        {
+            "id": 2,
+            "name": "anna johnson",
+            "job": "web designer",
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
+            "text": "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal."
+        },
+        {
+            "id": 3,
+            "name": "peter jones",
+            "job": "intern",
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+            "text": "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag."
+        },
+        {
+            "id": 4,
+            "name": "bill anderson",
+            "job": "the boss",
+            "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+            "text": "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. "
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "title": "buttermilk pancakes",
+            "category": "breakfast",
+            "price": 15.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-1.jpeg",
+            "desc": "Im baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+        },
+        {
+            "id": 2,
+            "title": "diner double",
+            "category": "lunch",
+            "price": 3.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-2.jpeg",
+            "desc": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats "
+        },
+        {
+            "id": 3,
+            "title": "godzilla milkshake",
+            "category": "shakes",
+            "price": 0.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-3.jpeg",
+            "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral."
+        },
+        {
+            "id": 4,
+            "title": "country delight",
+            "category": "breakfast",
+            "price": 0.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-4.jpeg",
+            "desc": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, "
+        },
+        {
+            "id": 5,
+            "title": "egg attack",
+            "category": "lunch",
+            "price": 2.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-5.jpeg",
+            "desc": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90s pop-up "
+        },
+        {
+            "id": 6,
+            "title": "oreo dream",
+            "category": "shakes",
+            "price": 8.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-6.jpeg",
+            "desc": "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday"
+        },
+        {
+            "id": 7,
+            "title": "bacon overflow",
+            "category": "breakfast",
+            "price": 0.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-7.jpeg",
+            "desc": "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird "
+        },
+        {
+            "id": 8,
+            "title": "american classic",
+            "category": "lunch",
+            "price": 2.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-8.jpeg",
+            "desc": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  "
+        },
+        {
+            "id": 9,
+            "title": "quarantine buddy",
+            "category": "shakes",
+            "price": 6.99,
+            "img": "https://react-projects-5-menu.netlify.app/images/item-9.jpeg",
+            "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
+        }
+    ]
+}

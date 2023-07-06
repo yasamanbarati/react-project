@@ -1,0 +1,1 @@
+export {BirthdayReminder} from './birthday_reminder'
